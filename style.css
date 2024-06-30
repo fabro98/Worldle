@@ -1,8 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Playwrite+IT+Moderna:wght@100..400&display=swap');
 
 body {
-    font-family:"Playwrite IT Moderna", cursive;
-    background-color: #d0dee4;    
+  font-family:"Playwrite IT Moderna", cursive;
+  background-image:url(https://images.unsplash.com/photo-1553284966-19b8815c7817?ixlib=rb-4.0.3);
+    height: 150vh;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    
+    
   }
      
   h1 {
